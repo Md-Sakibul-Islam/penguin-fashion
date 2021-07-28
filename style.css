@@ -39,3 +39,41 @@ body{
     
 }
 /* header nav and banner part style start  */
+/* section margin top style start  */
+.casual-shoes-portion , .womains-jacket-portion, .man-jacket-portion, .footer-portion{
+    margin-top: 70px;
+    }
+    /* section margin top style end  */
+    
+    /* 
+    ------------------
+    card style start
+    ------------------
+    */
+    .card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    border: 0;
+    }
+    .card-img-bg{
+        background: #F1F1F1;
+        border-radius: 20px;
+        margin: 10px;
+    }
+    .card img{
+        width: 203px;
+        height: 275px;
+    }
+    .card-title{
+        font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 16px;
+        font-family: 'Roboto', sans-serif;
+    }
+    /* 
+    ------------------
+    card style end
+    ------------------
+    */
