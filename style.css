@@ -1,106 +1,109 @@
-body{
-    font-family: 'Bebas Neue', cursive;
+body {
+  font-family: "Bebas Neue", cursive;
 }
 
 /* header nav and banner part style start  */
-.header-part{
-    background: #FFFBF0;
+.header-part {
+  background: #fffbf0;
 }
-.navbar-nav a{
-    margin-left: 35px;
-    color: #3C3C3C;
+.navbar-nav a {
+  margin-left: 35px;
+  color: #3c3c3c;
 }
-.navbar-brand img{
-    width: 200px;
-    height: 40px;
+.navbar-brand img {
+  width: 200px;
+  height: 40px;
 }
-.word-color{
-    color: #FABE4C;
+.word-color {
+  color: #fabe4c;
 }
-.banner-title{
-    font-size: 75px;
+.banner-title {
+  font-size: 75px;
 }
-.banner-text{
-    font-weight: normal;
-    font-size: 16px;
-    color: #3E3E3E;
-    font-family: 'Roboto', sans-serif;
+.banner-text {
+  font-weight: normal;
+  font-size: 16px;
+  color: #3e3e3e;
+  font-family: "Roboto", sans-serif;
 }
-.buy-now{
-    color: white;
-    width: 170px;
-    height: 60px;
-    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
-    border-radius: 10px;
-    border: 0;
+.buy-now {
+  color: white;
+  width: 170px;
+  height: 60px;
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  border-radius: 10px;
+  border: 0;
 }
-.banner-img img{
-    width: 90%;
-    
+.banner-img img {
+  width: 90%;
 }
 /* header nav and banner part style start  */
 /* section margin top style start  */
-.casual-shoes-portion , .womains-jacket-portion, .man-jacket-portion, .contact-portion, .footer-portion{
-    margin-top: 70px;
-    }
-    /* section margin top style end  */
-    
-    /* 
+.casual-shoes-portion,
+.womains-jacket-portion,
+.man-jacket-portion,
+.contact-portion,
+.footer-portion {
+  margin-top: 70px;
+}
+/* section margin top style end  */
+
+/* 
     ------------------
     card style start
     ------------------
     */
-    .card{
-    background: #FFFFFF;
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
-    border-radius: 20px;
-    border: 0;
-    }
-    .card-img-bg{
-        background: #F1F1F1;
-        border-radius: 20px;
-        margin: 10px;
-    }
-    .card img{
-        width: 203px;
-        height: 275px;
-    }
-    .card-title{
-        font-family: 'Roboto', sans-serif; 
-    }
-    .card-text{
-        font-size: 16px;
-        font-family: 'Roboto', sans-serif;
-    }
-    /* 
+.card {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  border: 0;
+}
+.card-img-bg {
+  background: #f1f1f1;
+  border-radius: 20px;
+  margin: 10px;
+}
+.card img {
+  width: 203px;
+  height: 275px;
+}
+.card-title {
+  font-family: "Roboto", sans-serif;
+}
+.card-text {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+/* 
     ------------------
     card style end
     ------------------
     */
-    
+
 /*
 --------------------------------------------
 contact portion and shopping img style start
 ---------------------------------------------
  */
-.contact-portion{
-    margin-top: 100px;
+.contact-portion {
+  margin-top: 100px;
 }
-.contact-portion-card{
-    font-family: 'Roboto', sans-serif;
+.contact-portion-card {
+  font-family: "Roboto", sans-serif;
 }
-.icon img{
-    width: 78px;
-    height: 82px;
+.icon img {
+  width: 78px;
+  height: 82px;
 }
-.contact-portion-card{
-    background: #FFFFFF;
-box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
-border-radius: 20px;
-padding: 9px;
+.contact-portion-card {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  padding: 9px;
 }
-.shopping img{
-    width: 90%;
+.shopping img {
+  width: 90%;
 }
 
 /*
