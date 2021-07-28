@@ -40,7 +40,7 @@ body{
 }
 /* header nav and banner part style start  */
 /* section margin top style start  */
-.casual-shoes-portion , .womains-jacket-portion, .man-jacket-portion, .footer-portion{
+.casual-shoes-portion , .womains-jacket-portion, .man-jacket-portion, .contact-portion, .footer-portion{
     margin-top: 70px;
     }
     /* section margin top style end  */
@@ -77,3 +77,34 @@ body{
     card style end
     ------------------
     */
+    
+/*
+--------------------------------------------
+contact portion and shopping img style start
+---------------------------------------------
+ */
+.contact-portion{
+    margin-top: 100px;
+}
+.contact-portion-card{
+    font-family: 'Roboto', sans-serif;
+}
+.icon img{
+    width: 78px;
+    height: 82px;
+}
+.contact-portion-card{
+    background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+padding: 9px;
+}
+.shopping img{
+    width: 90%;
+}
+
+/*
+--------------------------------------------
+contact portion and shopping img style end
+---------------------------------------------
+ */
